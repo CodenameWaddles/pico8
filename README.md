@@ -1,5 +1,5 @@
 # pico8
-My pico 8 games over the years
+My pico 8 games
 
 ## My games
 
@@ -10,6 +10,11 @@ July 2022
 Released
 December 2022
 ### Pizza Panic
+
+### Mini rasterizer
+Unreleased mini rasterizer
+January 2024
+
 ### Raycasting
 Unreleased prototype
 August 2022
